@@ -8,9 +8,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:494730817643:android:891604865e23ae5a",
+        "mobilesdk_app_id": "1:494730817643:android:ca27016b7b949633",
         "android_client_info": {
-          "package_name": "com.two.enough"
+          "package_name": "com.example.daxu.se_final_project"
         }
       },
       "oauth_client": [
